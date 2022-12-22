@@ -1,0 +1,161 @@
+90 Degree Gusset % 006
+4 inch Wheel % 007
+4 inch Zip Ties % 008
+Rubber Bands WIDE#64 % 010
+Rubber Bands NARROW#32 % 010B
+Latex/Sergical Tubing(10FT) % 011
+Ultra Sonic Range Finder % 012
+4 Wire Extension % 012B
+LED Indicators (Yellow, Red, Green) % 012C
+Line Tracker Kit % 013
+Potentiometer % 013B
+Limit Switch % 014
+Bumper Switch % 014B
+Chain Link (2 Ft Bundle) % 015
+Optical Shaft Encoders % 018
+Conveyor Belt Base Links % 019
+Smooth Tank Tread Traction Links % 019B
+Conveyor Inserts 1 cm % 020A
+Conveyor Inserts 2 cm % 020B
+Conveyor Inserts 3 cm % 020C
+Journal % 022
+Rack Gear Kit % 023
+C-Channel 1x2x1x35 STEEL % 024
+4 inch Shafts % 025
+12 inch Shafts % 025B
+Chassis Rail (25 Hole) % 026
+C-Channel 1x2x1x25 Hole STEEL % 030
+11/32 in. :::::1/4in. Combination wrench % 031
+Bar. 25 Hole % 032
+Angle 2x2x25 STEEL % 033
+Plate 5x25 Hole STEEL % 033
+C-Channel 1x5x1x25 Hole STEEL % 040
+Chassis Rail (16 Hole) % 041
+Hinges % 042
+Spur Gear, 84-Tooth % 045
+Spur Gear, 60-Tooth % 045B
+Spur Gear, 36-Tooth % 046
+Spur Gear, 12-Tooth % 047
+Nylon Spacer NARROW % 048
+Nylon Spacer MEDIUM % 049
+Nylon Spacer WIDE % 050
+Nylon Spacer EXTRA WIDE % 051
+High Strength 30 Tooth Sprocket % 052
+High Strength 24 Tooth Sprocket % 052B
+High Strength 18 Tooth Sprocket % 052C
+High Strength 12 Tooth Sprocket % 053
+High Strength 6 Tooth Sprocket % 054
+Acetal Slide Truck INNER with Brackets % 056
+Acetal Slide Truck OUTER % 056B
+12 in Linear Slide Track % 057A
+17.5 in Linear Slide Track % 057A
+2.75 inch Wheels % 059
+Omni Direction Wheels 4 inch % 060
+Intake Roller % 063
+Allen Keys 3/32 inch % 063BB
+Bearing Flat % 064
+Bearing Pillow Block % 065
+Lock Plates % 065B
+Shaft Collar with Set Screw (PKG/36) % 066
+Allen Keys 5/64 inch % 067
+Motor Coupler Posts % 069
+Shaft Couplers % 070
+2 inch Shafts % 071
+3 inch Shafts % 072
+Thin Spacers (4.6mm) % 073
+Wide Spacers (8.0mm) % 074
+Metal Washers % 075
+Teflon Washers % 075B
+1.5 inch x 8-32 Star Drive (Torx) Screws (T15) % 076
+3/4 inch x 8-32 Star Drive (Torx) Screws (T15) % 077
+1/2 inch x 8-32 Star Drive (Torx) Screws (T15) % 078
+1/4 inch x 8-32 Star Drive (Torx) Screws (T15) % 079
+Bearing Attachment Rivets % 080
+Nuts Nylock 8-32 % 081
+Locking Screw 1/4 inch X 6-32 % 082
+Locking Screw 1/2 inch X 6-32 % 083
+Roll of Velcro Adhesive % 084
+Standoff 1/2 inch % 085
+Standoff 1 inch % 086
+Standoff 2 inch % 087
+Standoff 3 inch % 088
+Gusset Angle % 089
+Gusset Pivot % 090
+Gusset Pluss % 091
+Nuts, Keps 8-32 % 092
+45 Degree Gussets % 093
+Parachute String % 094
+1 inch Standoff Couplers % 095
+C-Channel Coupler Gusset ALUMINUM % 100
+Mechanum Wheels % 103
+1x2x1x25 C-Channel ALUMINUM % 104/106
+1x2x1x20 C-Channel ALUMINUM % 104A/106A
+1x2x1x15 C-Channel ALUMINUM % 104B/106B
+1x2x1x10 C-Channel ALUMINUM % 104C/106C
+1x2x1x5 C-Channel ALUMINUM % 104D/106D
+1x2x1x35 C-Channel ALUMINUM % 105/107
+1x2x1x30 C-Channel ALUMINUM % 105A/107A
+2x2x35 Angle ALUMINUM % 109
+2x2x30 Angle ALUMINUM % 109A
+2x2x25 Angle ALUMINUM % 109B
+2x2x20 Angle ALUMINUM % 109C
+2x2x15 Angle ALUMINUM % 109D
+2x2x10 Angle ALUMINUM % 109E
+2x2x5 Angle ALUMINUM % 109F
+25 Hole Bar ALUMINUM % 110
+20 Hole Bar ALUMINUM % 110A
+15 Hole Bar ALUMINUM % 110B
+10 Hole Bar ALUMINUM % 110C
+5 Hole Bar ALUMINUM % 110D
+5x25 Hole Plate % 111
+5x20 Hole Plate % 111A
+5x15 Hole Plate % 111B
+5x10 Hole Plate % 111C
+5x5 Hole Plate % 111D
+2 inch High Strength SHAFT % 113
+3 inch High Strength SHAFT % 114
+4 inch High Strength SHAFT % 115
+12 inch High Strength SHAFT % 116
+84 Tooth High Strength GEAR % 117
+60 Tooth High Strength GEAR % 118
+36 Tooth High Strength GEAR % 119
+12 Tooth High Strength GEAR % 120
+High Strength Plastic Inserts % 121
+High Strength Steel Inserts % 121B
+High Strength Clamping Shaft Collar % 122
+High Strength Shaft Spacer Kit % 123
+High Strength Shaft Bearing % 124
+V5 USB A to Micro Cable % 200
+V5 Robot Brain % 201
+V5 Smart Motor % 202
+V5 Robot Radio % 203
+V5 Brain Flanges SHORT % 204
+V5 Brain Flanges LONG % 205
+V5 Robot Battery Charger % 206
+V5 Controller (Joystick) % 207
+V5 Robot Battery Li-Ion 1100mAh % 208
+V5 Battery Clips % 209
+V5 Robot Battery Cable % 210
+V5 200mm Smart Cable (YELLOW Tab) % 211
+V5 300mm Smart Cable (RED Tab) % 211A
+V5 600mm Smart Cable (GREEN Tab) % 212
+V5 900mm Smart Cable (BLUE Tab) % 213
+V5 1200mm Smart Cable (WHITE Tab) % 213A
+HIGH TORQUE V5 Smart Motor 36:1 Cartridge (100 rpm) RED % 214
+STANDARD V5 Smart Motor 18:1 Cartridge (200 rpm) GREEN % 215
+HIGH SPEED V5 Smart Motor 6:1 Cartridge (600 rpm) BLUE % 216
+V5 Vision Sensors % 217
+V5 Gyro Inertial Sensors % 217B
+V5 Manual % 218
+V5 Pneumatic Kit (Double Acting Cylinder) % 219
+V5 Rubbler Grip Liner % 229
+V5 0.093 x 11 x 14 inch Clear Lexan % 221
+V5 License Plate % 222
+V5 License Plate Decals % 223
+V5 Optical Sensor % 224
+4 inch Straight Flex Wheel % 225
+1/2 inch Hex Bore Plastic VersaHub % 228
+1/2 inch VersaHex Adaptors % 229
+Star (Torx) Screwdriver % 230
+Rachet & Bit % 231
+3.25" Omni-Directional Wheel % 232
