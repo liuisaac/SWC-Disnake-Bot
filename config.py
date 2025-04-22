@@ -1,11 +1,10 @@
 import os
 
 #bots id
-bot_id = 1048366477947973762
-#MTA0ODM2NjQ3Nzk0Nzk3Mzc2Mg.Gitsxt.cvW3JhKPcQn4BVzF6poHnMKSMmvcJrlX8EJFnI
+bot_id = <id>
 #token optional .env token 
 #token = os.environ['TOKEN']
-token = "MTA0ODM2NjQ3Nzk0Nzk3Mzc2Mg.G_zLFb.XXcEXfPyMrZ73XvppRybm-5ALpHW6VlgaBzYVc"
+token = "<token>"
 #embed colors add your own if you like!
 error = 0xff0000
 success = 0x3f9425
